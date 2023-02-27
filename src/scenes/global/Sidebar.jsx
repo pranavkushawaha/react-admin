@@ -205,7 +205,7 @@ const Sidebar = () => {
                     <Item
                         title='Line Chart'
                         to='/line'
-                        icon={<TImelineOutlinedIcon />}
+                        icon={<TimelineOutlinedIcon />}
                         selected={selected}
                         setSelected={setSelected}
                     />
