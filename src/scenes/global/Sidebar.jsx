@@ -18,7 +18,7 @@ import CalendarMonthOutlinedIcon from "@mui/icons-material/CalendarMonthOutlined
 import HelpOutlinedIcon from "@mui/icons-material/HelpOutlined";
 import BarChartOutlinedIcon from "@mui/icons-material/BarChartOutlined";
 import PieChartOutlinedIcon from "@mui/icons-material/PieChartOutlined";
-import TImelineOutlinedIcon from "@mui/icons-material/TImelineOutlined";
+import TimelineOutlinedIcon from "@mui/icons-material/TimelineOutlined";
 import MenuOutlinedIcon from "@mui/icons-material/MenuOutlined";
 import MapOutlinedIcon from "@mui/icons-material/MapOutlined";
 import CloseIcon from "@mui/icons-material/Close";
